@@ -1,2 +1,1 @@
-version=1.0
-mensaje="Servidores activos. ¡Gracias por jugar!"
+1.0
